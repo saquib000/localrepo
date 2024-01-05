@@ -3,9 +3,9 @@
 ## subheading 
 
 ### local repo
-> Github repo
-> clone
-> changes 
-> add
-> commit
-> push
+#### Github repo
+#### clone
+#### changes 
+#### add
+#### commit
+#### push
